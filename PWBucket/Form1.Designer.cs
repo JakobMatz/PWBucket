@@ -47,7 +47,7 @@ namespace PWBucket
             // 
             // LoginButton
             // 
-            this.LoginButton.Location = new System.Drawing.Point(474, 528);
+            this.LoginButton.Location = new System.Drawing.Point(465, 522);
             this.LoginButton.Name = "LoginButton";
             this.LoginButton.Size = new System.Drawing.Size(203, 85);
             this.LoginButton.TabIndex = 1;
