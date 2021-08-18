@@ -30,7 +30,7 @@ namespace PWBucket
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            textBox1.PasswordChar = '*';
+            TBPasswordInput.PasswordChar = '*';
         }
     }
 }
