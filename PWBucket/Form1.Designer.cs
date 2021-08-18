@@ -56,9 +56,14 @@ namespace PWBucket
             // 
             // TBPasswordInput
             // 
-            this.TBPasswordInput.Location = new System.Drawing.Point(388, 353);
+            this.TBPasswordInput.AccessibleDescription = "";
+            this.TBPasswordInput.AccessibleName = "";
+            this.TBPasswordInput.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.TBPasswordInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.TBPasswordInput.Location = new System.Drawing.Point(383, 329);
             this.TBPasswordInput.Name = "TBPasswordInput";
-            this.TBPasswordInput.Size = new System.Drawing.Size(376, 31);
+            this.TBPasswordInput.PasswordChar = '*';
+            this.TBPasswordInput.Size = new System.Drawing.Size(376, 53);
             this.TBPasswordInput.TabIndex = 2;
             this.TBPasswordInput.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -66,6 +71,7 @@ namespace PWBucket
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(1166, 771);
             this.Controls.Add(this.TBPasswordInput);
             this.Controls.Add(this.LoginButton);
