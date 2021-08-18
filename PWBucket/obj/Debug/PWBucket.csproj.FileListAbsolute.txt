@@ -15,3 +15,4 @@ C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csproj.Gener
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csproj.CoreCompileInputs.cache
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.exe
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.pdb
+C:\Users\Jakob-Mac-Win\OneDrive - OSZ IMT\Dokumente\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.Form1.resources
