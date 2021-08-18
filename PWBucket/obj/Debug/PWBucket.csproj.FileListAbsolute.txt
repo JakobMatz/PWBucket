@@ -7,3 +7,11 @@ C:\Users\Jakob-Mac-Win\OneDrive - OSZ IMT\Dokumente\GitHub\PWBucket\PWBucket\obj
 C:\Users\Jakob-Mac-Win\OneDrive - OSZ IMT\Dokumente\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csproj.CoreCompileInputs.cache
 C:\Users\Jakob-Mac-Win\OneDrive - OSZ IMT\Dokumente\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.exe
 C:\Users\Jakob-Mac-Win\OneDrive - OSZ IMT\Dokumente\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.pdb
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\bin\Debug\PWBucket.exe.config
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\bin\Debug\PWBucket.exe
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\bin\Debug\PWBucket.pdb
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.Properties.Resources.resources
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csproj.GenerateResource.cache
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.exe
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.pdb
