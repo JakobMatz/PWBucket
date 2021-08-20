@@ -60,9 +60,9 @@ namespace PWBucket
             this.TBPasswordInput.AccessibleName = "";
             this.TBPasswordInput.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.TBPasswordInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.TBPasswordInput.Location = new System.Drawing.Point(383, 329);
+            this.TBPasswordInput.Location = new System.Drawing.Point(318, 317);
             this.TBPasswordInput.Name = "TBPasswordInput";
-            this.TBPasswordInput.Size = new System.Drawing.Size(376, 53);
+            this.TBPasswordInput.Size = new System.Drawing.Size(539, 53);
             this.TBPasswordInput.TabIndex = 2;
             this.TBPasswordInput.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
