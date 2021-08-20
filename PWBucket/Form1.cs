@@ -14,7 +14,7 @@ namespace PWBucket
     {
         Color farbe;
         string ph = "Bitte Password eingeben";
-
+        
         public Form1()
         {
             InitializeComponent();
@@ -53,6 +53,14 @@ namespace PWBucket
                 TBPasswordInput.ForeColor = Color.Gray;
                 TBPasswordInput.Text = ph;
             }
+        }
+
+        private void LoginButton_Click(object sender, EventArgs e)
+        {
+            var loginForm = new Form1();
+            var mainWindow = new MainWindow();
+            mainWindow.Show();
+            loginForm.Hide();
         }
     }
 }
