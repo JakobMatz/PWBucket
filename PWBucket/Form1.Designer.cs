@@ -40,14 +40,14 @@ namespace PWBucket
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F);
             this.label1.Location = new System.Drawing.Point(354, 53);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(458, 76);
+            this.label1.Size = new System.Drawing.Size(443, 76);
             this.label1.TabIndex = 0;
-            this.label1.Text = "PassWordBox";
+            this.label1.Text = "PasswordBox";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // LoginButton
             // 
-            this.LoginButton.Location = new System.Drawing.Point(474, 528);
+            this.LoginButton.Location = new System.Drawing.Point(465, 522);
             this.LoginButton.Name = "LoginButton";
             this.LoginButton.Size = new System.Drawing.Size(203, 85);
             this.LoginButton.TabIndex = 1;
@@ -62,7 +62,6 @@ namespace PWBucket
             this.TBPasswordInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
             this.TBPasswordInput.Location = new System.Drawing.Point(383, 329);
             this.TBPasswordInput.Name = "TBPasswordInput";
-            this.TBPasswordInput.PasswordChar = '*';
             this.TBPasswordInput.Size = new System.Drawing.Size(376, 53);
             this.TBPasswordInput.TabIndex = 2;
             this.TBPasswordInput.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
