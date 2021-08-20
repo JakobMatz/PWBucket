@@ -54,5 +54,17 @@ namespace PWBucket
                 TBPasswordInput.Text = ph;
             }
         }
+
+        private void LoginButton_Click(object sender, EventArgs e)
+        {
+            if (Login.login(TBPasswordInput.Text))
+            {
+                MessageBox.Show(TBPasswordInput.Text + " Success!");
+            }
+            else
+            {
+                MessageBox.Show(TBPasswordInput.Text + " Failure!");
+            }
+        }
     }
 }
