@@ -19,3 +19,5 @@ C:\Users\Jakob-Mac-Win\OneDrive - OSZ IMT\Dokumente\GitHub\PWBucket\PWBucket\obj
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csprojAssemblyReference.cache
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.Form1.resources
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.Buttons.resources
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\bin\Debug\Passwoerter.mdf
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\bin\Debug\Passwoerter_log.ldf

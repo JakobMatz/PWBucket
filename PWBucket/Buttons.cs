@@ -13,6 +13,7 @@ namespace PWBucket
 {
     public partial class Buttons : Form
     {
+        string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\Passwoerter.mdf;Integrated Security=True";
         public Buttons()
         {
             InitializeComponent();
@@ -21,6 +22,16 @@ namespace PWBucket
         private void button1_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void btnShowTable_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
