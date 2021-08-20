@@ -16,3 +16,5 @@ C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csproj.CoreC
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.exe
 C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.pdb
 C:\Users\Jakob-Mac-Win\OneDrive - OSZ IMT\Dokumente\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.Form1.resources
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\PWBucket\PWBucket\obj\Debug\PWBucket.Form1.resources
