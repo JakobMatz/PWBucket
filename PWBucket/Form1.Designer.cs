@@ -40,14 +40,14 @@ namespace PWBucket
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F);
             this.label1.Location = new System.Drawing.Point(354, 53);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(458, 76);
+            this.label1.Size = new System.Drawing.Size(443, 76);
             this.label1.TabIndex = 0;
-            this.label1.Text = "PassWordBox";
+            this.label1.Text = "PasswordBox";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // LoginButton
             // 
-            this.LoginButton.Location = new System.Drawing.Point(474, 528);
+            this.LoginButton.Location = new System.Drawing.Point(465, 522);
             this.LoginButton.Name = "LoginButton";
             this.LoginButton.Size = new System.Drawing.Size(203, 85);
             this.LoginButton.TabIndex = 1;
@@ -56,9 +56,13 @@ namespace PWBucket
             // 
             // TBPasswordInput
             // 
-            this.TBPasswordInput.Location = new System.Drawing.Point(388, 353);
+            this.TBPasswordInput.AccessibleDescription = "";
+            this.TBPasswordInput.AccessibleName = "";
+            this.TBPasswordInput.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.TBPasswordInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
+            this.TBPasswordInput.Location = new System.Drawing.Point(383, 329);
             this.TBPasswordInput.Name = "TBPasswordInput";
-            this.TBPasswordInput.Size = new System.Drawing.Size(376, 31);
+            this.TBPasswordInput.Size = new System.Drawing.Size(376, 53);
             this.TBPasswordInput.TabIndex = 2;
             this.TBPasswordInput.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -66,6 +70,7 @@ namespace PWBucket
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(1166, 771);
             this.Controls.Add(this.TBPasswordInput);
             this.Controls.Add(this.LoginButton);
